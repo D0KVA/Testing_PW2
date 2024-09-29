@@ -1,0 +1,6 @@
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\bin\Debug\TDD.FindingAnything.dll
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\bin\Debug\TDD.FindingAnything.pdb
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\obj\Debug\TDD.FindingAnything.csproj.AssemblyReference.cache
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\obj\Debug\TDD.FindingAnything.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\obj\Debug\TDD.FindingAnything.dll
+C:\Users\pk\source\repos\TDD.FindingAnything.Tests\TDD.FindingAnything\obj\Debug\TDD.FindingAnything.pdb
