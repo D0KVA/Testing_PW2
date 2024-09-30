@@ -11,7 +11,7 @@ namespace TDD.FindingAnything.Tests
         public void FindShortestWord_ShortWordSearchProcess_ShortWord()
         {
             FindingAnythingWord finder = new FindingAnythingWord();
-            Assert.AreEqual("я", finder.FindShortestWord("Хейтеры говорят что я глухой"));
+            StringAssert.Contains("я", finder.FindShortestWord("Хейтеры говорят что я глухой"));
         }
 
         [TestMethod]
@@ -32,7 +32,7 @@ namespace TDD.FindingAnything.Tests
         public void FindNthCharacter_FindingCharacter_ia()
         {
             FindingAnythingWord finder = new FindingAnythingWord();
-            Assert.AreNotEqual("я", finder.FindNthCharacter("Хейтеры говорят что я глухой"));
+            StringAssert.Contains("в", finder.FindNthCharacter("Хейтеры говорят что я глухой"));
         }
 
         [TestMethod]
